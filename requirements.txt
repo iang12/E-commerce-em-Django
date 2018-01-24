@@ -1,6 +1,7 @@
-pipdj-database-url==0.4.1
-Django==1.10
+
+Django==1.11.1
 gunicorn==19.4.5
+pipdj-database-url==0.4.1
 psycopg2==2.6.1
 whitenoise==3.2
 
